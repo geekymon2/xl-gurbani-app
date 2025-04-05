@@ -1,4 +1,4 @@
-package com.example.xl_gurbani_app
+package com.xl.gurbani
 
 import io.flutter.embedding.android.FlutterActivity
 
